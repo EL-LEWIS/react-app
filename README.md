@@ -13,4 +13,4 @@ configurando o bootstrap no arquivo index.js (import 'bootstrap/dist/css/bootstr
 ---
 3. instalando e configurando o servidor do reactapp e em seguida npm start!
 
-![alt text](<../Captura de tela 2024-11-21 194227.png>)
+![alt text](<../Captura de tela 2024-11-21 194227.png>) 
