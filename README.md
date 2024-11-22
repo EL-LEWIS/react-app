@@ -41,4 +41,4 @@ O react é um framework js criado pela meta para criar interfaces de ususarios e
 ##  instalando e configurando o servidor do reactapp e em seguida npm start!
 
 
-![alt text](<../Captura de tela 2024-11-21 194227.png>)
+![alt text](../tela1.png)
